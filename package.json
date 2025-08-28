@@ -1,0 +1,36 @@
+{
+  "name": "ecommerce-nodejs-api",
+  "version": "1.0.0",
+  "description": "RESTful API built with Node.js and Express for managing e-commerce platforms, including user authentication, product management etc.",
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/Rajeevkumar69/ecommerce-nodejs-api#readme",
+  "bugs": {
+    "url": "https://github.com/Rajeevkumar69/ecommerce-nodejs-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajeevkumar69/ecommerce-nodejs-api.git"
+  },
+  "license": "ISC",
+  "author": "rajeev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "http-status-codes": "^2.3.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.0",
+    "nodemon": "^3.1.10"
+  }
+}
