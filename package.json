@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-nodejs-api",
+  "name": "nodejsUrlShortner",
   "version": "1.0.0",
   "description": "RESTful API built with Node.js and Express for managing e-commerce platforms, including user authentication, product management etc.",
   "keywords": [
@@ -7,13 +7,13 @@
     "expressjs",
     "mongodb"
   ],
-  "homepage": "https://github.com/Rajeevkumar69/ecommerce-nodejs-api#readme",
+  "homepage": "https://github.com/Rajeevkumar69/nodejsUrlShortner#readme",
   "bugs": {
-    "url": "https://github.com/Rajeevkumar69/ecommerce-nodejs-api/issues"
+    "url": "https://github.com/Rajeevkumar69/nodejsUrlShortner/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rajeevkumar69/ecommerce-nodejs-api.git"
+    "url": "git+https://github.com/Rajeevkumar69/nodejsUrlShortner.git"
   },
   "license": "ISC",
   "author": "rajeev",
